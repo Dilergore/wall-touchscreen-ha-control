@@ -28,22 +28,22 @@ Therefore I am planning to use PoE based solution. For now I am using this proje
 ### Table of the used components
 Some of the links are pointing to local dealerships here in Hungary. Most of these are also available on Aliexpress or probably locally in your country.
 
-| Hardware                  | Type & Link                                                                                                                    |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Frame                     | [IKEA Ribba 21x30](https://www.ikea.com/hu/hu/p/ribba-kepkeret-fekete-60378396/)                                               |
-| Wooden Plank              | [2x2 - 2M](https://www.abarkacs.hu/gyalult-borovi-fenyo-lec-2m-2x2cm)                                                          |
-| Wooden Plugs              | [10mm Wooden Plug](https://www.obi.hu/fatiplik/lux-fatipli-10-mm-es-30-db/p/5012000)                                           |
-| Wood Glue                 | [BISON  Super Wood Glue](https://www.obi.hu/ragasztok/bison-faragaszto-szuper-eros-vizallo-kuel-es-belteri-250-g-d3/p/2913697) |
-| Black Film                | [One-Way Black mirror film 30cm x 5m](https://tinyurl.com/y7wb6qa8)                                                            |
-| Double-Sided Tape for LCD | [3M 9448AB Tape for LCD](https://tinyurl.com/ya6henge)                                                                         |
-| Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                                                             |
-| Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/yc465daz)                                                                       |
-| HDMI Cable                | [HDMI Ribbon Cable](https://tinyurl.com/yay53w98)                                                                              |
-| Power Supply              | [42W Power Supply](https://www.anrodiszlec.hu/product_info.php/products_id/13212)                                              |
-| PoE Adapter & Splitter    | [POE Adapter-Splitter Kit](https://tinyurl.com/y9e6pmqu)                                                                       |
-| DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                                                                       |
-| Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                                                            |
-| Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                                                                         |
+| Hardware                  | Type & Link                                                                          |
+| ------------------------- | ------------------------------------------------------------------------------------ |
+| Frame                     | [IKEA Ribba 21x30](https://www.ikea.com/hu/hu/p/ribba-kepkeret-fekete-60378396/)     |
+| Wooden Plank              | [2x2 - 2M](https://www.abarkacs.hu/gyalult-borovi-fenyo-lec-2m-2x2cm)                |
+| Wooden Plugs              | [10mm Wooden Plug](https://www.obi.hu/fatiplik/lux-fatipli-10-mm-es-30-db/p/5012000) |
+| Wood Glue                 | [BISON Super Wood Glue](https://tinyurl.com/ybyvgavx)                                |
+| Black Film                | [One-Way Black mirror film 30cm x 5m](https://tinyurl.com/y7wb6qa8)                  |
+| Double-Sided Tape for LCD | [3M 9448AB Tape for LCD](https://tinyurl.com/ya6henge)                               |
+| Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                   |
+| Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/yc465daz)                             |
+| HDMI Cable                | [HDMI Ribbon Cable](https://tinyurl.com/yay53w98)                                    |
+| Power Supply              | [42W Power Supply](https://www.anrodiszlec.hu/product_info.php/products_id/13212)    |
+| PoE Adapter & Splitter    | [POE Adapter-Splitter Kit](https://tinyurl.com/y9e6pmqu)                             |
+| DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                             |
+| Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                  |
+| Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                               |
 
 ### Components in details
 #### IKEA Ribba
