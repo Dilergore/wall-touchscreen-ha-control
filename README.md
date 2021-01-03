@@ -51,14 +51,24 @@ Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ri
 
 <details>
   <summary>Measurements (mm)</summary>
-  Outer diameters: 324 x 234 x 35
-  Inner diameters (visible picture size): 287 x 197
-  Inner diameters (without frame edge): 303 x 213 x 30
-  Frame edge: 7 x 7
-  
+  <ul>
+    <li>Outer diameters: 324 x 234 x 35</li>
+    <li>Inner diameters (visible picture size): 287 x 197</li>
+    <li>Inner diameters (without frame edge): 303 x 213 x 30</li>
+    <li>Frame edge: 7 x 7</li>
+  </ul>
 </details>
 <details>
   <summary>Pictures</summary>
+  <ul>
+    <li><a href="pictures/frame/IMG_1505.JPEG">IMG_1505</a></li>
+    <li><a href="pictures/frame/IMG_1506.JPEG">IMG_1506</a></li>
+    <li><a href="pictures/frame/IMG_1507.JPEG">IMG_1507</a></li>
+    <li><a href="pictures/frame/IMG_1508.JPEG">IMG_1508</a></li>
+    <li><a href="pictures/frame/IMG_1509.JPEG">IMG_1509</a></li>
+    <li><a href="pictures/frame/IMG_1510.JPEG">IMG_1510</a></li>
+    <li><a href="pictures/frame/IMG_1511.JPEG">IMG_1511</a></li>
+  </ul>
 </details>
 
 #### Wooden Plank & Plugs & Glue
