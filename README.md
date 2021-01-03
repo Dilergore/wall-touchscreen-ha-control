@@ -1,6 +1,7 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Intro](#intro)
+- [Tools](#tools)
 - [Hardware](#hardware)
   - [Table of the used components](#table-of-the-used-components)
   - [Components in details](#components-in-details)
@@ -24,26 +25,31 @@ I have been looking into this for quiet some time now. Checked the tablet possib
 
 Therefore I am planning to use PoE based solution. For now I am using this project to track the progress and to make notes. Later on I plan to share this on different forums, hopefully it will be useful for the other people out there wanting to do something similar. :-)
 
+## Tools
+| Name                                        | Note                                                             |
+| ------------------------------------------- | ---------------------------------------------------------------- |
+| [Small Clips](https://tinyurl.com/y7fctjrn) | This will come in handy when I will need to glue things together |
+
 ## Hardware
 ### Table of the used components
 Some of the links are pointing to local dealerships here in Hungary. Most of these are also available on Aliexpress or probably locally in your country.
 
-| Hardware                  | Type & Link                                                                          |
-| ------------------------- | ------------------------------------------------------------------------------------ |
-| Frame                     | [IKEA Ribba 21x30](https://www.ikea.com/hu/hu/p/ribba-kepkeret-fekete-60378396/)     |
-| Wooden Plank              | [2x2 - 2M](https://www.abarkacs.hu/gyalult-borovi-fenyo-lec-2m-2x2cm)                |
-| Wooden Plugs              | [10mm Wooden Plug](https://www.obi.hu/fatiplik/lux-fatipli-10-mm-es-30-db/p/5012000) |
-| Wood Glue                 | [BISON Super Wood Glue](https://tinyurl.com/ybyvgavx)                                |
-| Black Film                | [One-Way Black mirror film 30cm x 5m](https://tinyurl.com/y7wb6qa8)                  |
-| Double-Sided Tape for LCD | [3M 9448AB Tape for LCD](https://tinyurl.com/ya6henge)                               |
-| Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                   |
-| Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/yc465daz)                             |
-| HDMI Cable                | [HDMI Ribbon Cable](https://tinyurl.com/yay53w98)                                    |
-| Power Supply              | [42W Power Supply](https://www.anrodiszlec.hu/product_info.php/products_id/13212)    |
-| PoE Adapter & Splitter    | [POE Adapter-Splitter Kit](https://tinyurl.com/y9e6pmqu)                             |
-| DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                             |
-| Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                  |
-| Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                               |
+| Hardware                  | Type & Link                                                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------------- |
+| Frame                     | [IKEA Ribba 21x30](https://www.ikea.com/hu/hu/p/ribba-kepkeret-fekete-60378396/)            |
+| Wooden Plank              | [10x15](https://www.obi.hu/szegelylecek/negyszoeglec-10-mm-x-15-mm-2100-mm-fenyo/p/1820299) |
+| Wooden Plugs              | [6mm Wooden Plug](https://www.obi.hu/fatiplik/lux-fatipli-6-mm-50-darab/p/5103932)          |
+| Wood Glue                 | [BISON Super Wood Glue](https://tinyurl.com/ybyvgavx)                                       |
+| Black Film                | [One-Way Black mirror film 30cm x 5m](https://tinyurl.com/y7wb6qa8)                         |
+| Double-Sided Tape for LCD | [3M 9448AB Tape for LCD](https://tinyurl.com/ya6henge)                                      |
+| Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                          |
+| Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/yc465daz)                                    |
+| HDMI Cable                | [HDMI Ribbon Cable](https://tinyurl.com/yay53w98)                                           |
+| Power Supply              | [42W Power Supply](https://www.anrodiszlec.hu/product_info.php/products_id/13212)           |
+| PoE Adapter & Splitter    | [POE Adapter-Splitter Kit](https://tinyurl.com/y9e6pmqu)                                    |
+| DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                                    |
+| Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                         |
+| Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                                      |
 
 ### Components in details
 #### IKEA Ribba
@@ -73,6 +79,15 @@ Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ri
 
 #### Wooden Plank & Plugs & Glue
 The wooden plank will help us to give some more strength and stability to the screen by pushing it against the frame/glass. Along with that it will enable us used together with the plugs to mount it on the wall and be able to remove it from the wall later on in case something needs to be adjusted physically. The planks will be glued to the backside of the Ribba frame which will be mounted on the wall with 4 screws.
+
+<details>
+  <summary>Pictures</summary>
+  <ul>
+    <li><a href="pictures/frame/IMG_1505.JPEG">IMG_1512</a></li>
+    <li><a href="pictures/frame/IMG_1506.JPEG">IMG_1513</a></li>
+    <li><a href="pictures/frame/IMG_1507.JPEG">IMG_1514</a></li>
+  </ul>
+</details>
 
 #### Black Film
 This is similar to the one-way mirror / detective glass films but instead of being a normal mirror it is a black/darker mirror. I believe that the look of this is similar to the tablet / phone black edge around or top of the screen. This will help us to hide the sensors.
