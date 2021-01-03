@@ -47,7 +47,7 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | Double-Sided Tape for LCD | [3M 9448AB Tape for LCD](https://tinyurl.com/ya6henge)                                      |
 | Adhesive Sealing Tape     | [1 x 6 Adhesive Silicone Sealing Tape](https://tinyurl.com/y8yaxd8s)                        |
 | Polystyrene Sheet         | [330 x 230 x 0.5 Polystyrene Sheet](https://tinyurl.com/ydd37cmu)                           |
-| PCB Board Support Holder  | [3.5mm sticky holder](https://www.hestore.hu/prod_10035400.html#)                           |
+| PCB Board Support Holder  | [3.5mm Sticky Holder](https://www.hestore.hu/prod_10035400.html#)                           |
 | Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                          |
 | Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/y6wvakna)                                    |
 | HDMI Cable                | [HDMI Ribbon Cable](https://tinyurl.com/yay53w98)                                           |
