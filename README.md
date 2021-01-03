@@ -47,7 +47,19 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 
 ### Components in details
 #### IKEA Ribba
-Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ribba is close to the perfect choice to do something like this. It is having a depth of 4 cm which is allowing us to hide most of the stuff we are planning with and still have some space for the air flow. Opposed to the already mentioned guide I am not planning to glue two frames; I am planning to use it as it is.
+Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ribba is close to the perfect choice to do something like this. It is having a depth of 3.5 cm which is allowing us to hide most of the stuff we are planning with and still have some space for the air flow. Opposed to the already mentioned guide I am not planning to glue two frames; I am planning to use it as it is.
+
+<details>
+  <summary>Measurements (mm)</summary>
+  Outer diameters: 324 x 234 x 35
+  Inner diameters (visible picture size): 287 x 197
+  Inner diameters (without frame edge): 303 x 213 x 30
+  Frame edge: 7 x 7
+  
+</details>
+<details>
+  <summary>Pictures</summary>
+</details>
 
 #### Wooden Plank & Plugs & Glue
 The wooden plank will help us to give some more strength and stability to the screen by pushing it against the frame/glass. Along with that it will enable us used together with the plugs to mount it on the wall and be able to remove it from the wall later on in case something needs to be adjusted physically. The planks will be glued to the backside of the Ribba frame which will be mounted on the wall with 4 screws.
