@@ -6,15 +6,17 @@
   - [Table of the used components](#table-of-the-used-components)
   - [Components in details](#components-in-details)
     - [IKEA Ribba](#ikea-ribba)
-    - [Wooden Plank & Plugs & Glue](#wooden-plank--plugs--glue)
+    - [Wooden Plank, Plugs & Glue](#wooden-plank-plugs--glue)
     - [Black Film](#black-film)
     - [Double-Sided Tape for LCD](#double-sided-tape-for-lcd)
+    - [Adhesive sealing tape](#adhesive-sealing-tape)
     - [Raspberry PI 4](#raspberry-pi-4)
     - [Touch Screen](#touch-screen)
     - [HDMI Cable](#hdmi-cable)
     - [Power Supply & PoE & Step-down](#power-supply--poe--step-down)
     - [Ambient Light Sensor](#ambient-light-sensor)
     - [Motion sensor](#motion-sensor)
+    - [Amplifier, Speaker and Jack cable](#amplifier-speaker-and-jack-cable)
 - [Software](#software)
 - [Credits](#credits)
 
@@ -42,6 +44,7 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | Wood Glue                 | [BISON Super Wood Glue](https://tinyurl.com/ybyvgavx)                                       |
 | Black Film                | [One-Way Black mirror film 30cm x 5m](https://tinyurl.com/y7wb6qa8)                         |
 | Double-Sided Tape for LCD | [3M 9448AB Tape for LCD](https://tinyurl.com/ya6henge)                                      |
+| Adhesive Sealing Tape     | [1 x 6 Adhesive Silicone Sealing Tape](https://tinyurl.com/y8yaxd8s)                        |
 | Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                          |
 | Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/y6wvakna)                                    |
 | HDMI Cable                | [HDMI Ribbon Cable](https://tinyurl.com/yay53w98)                                           |
@@ -50,6 +53,9 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                                    |
 | Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                         |
 | Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                                      |
+| Amplifier                 | [PAM8403-M](https://www.hestore.hu/prod_10038182.html)                                      |
+| Speaker                   | [3W Passive mini speaker](https://tinyurl.com/ybgszw5m)                                     |
+| Jack Cable                | [Random 3.5 Jack Cable on Ali](https://tinyurl.com/yb83ctar)                                |
 
 ### Components in details
 #### IKEA Ribba
@@ -77,7 +83,7 @@ Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ri
   </ul>
 </details>
 
-#### Wooden Plank & Plugs & Glue
+#### Wooden Plank, Plugs & Glue
 The wooden plank will help us to give some more strength and stability to the screen by pushing it against the frame/glass. Along with that it will enable us used together with the plugs to mount it on the wall and be able to remove it from the wall later on in case something needs to be adjusted physically. The planks will be glued to the backside of the Ribba frame which will be mounted on the wall with 4 screws.
 
 <details>
@@ -94,6 +100,9 @@ This is similar to the one-way mirror / detective glass films but instead of bei
 
 #### Double-Sided Tape for LCD
 This will help us to give the LCD a better look by filling the potential gaps between the frame and the screen. Since this is adhesive it will also help to keep the LCD inside the frame.
+
+#### Adhesive sealing tape
+This will be used on the edge of the frame (between the wall and the Ribba frame). This is matching the color of the frame and will make the solution prettier by filling the potential gaps between the wall and the frame.
 
 #### Raspberry PI 4
 Pretty straightforward I guess. The latest version with 4 GB of memory should be providing enough resources to show even the more complex HA dashboards.
@@ -113,6 +122,8 @@ BH1750 is a well-known sensor which can be used together with the RPi to measure
 #### Motion sensor
 RCWL-0616 is a microwave sensor which will help us to detect if someone is in front of the screen. The plan is to turn off the screen or show a screensaver if no one is actually using it. This will require some calibration for sure.
 
+#### Amplifier, Speaker and Jack cable
+The jack cable will be cut and soldered to the PAM8403 amplifier module along with the speakers. The speaker fits the Ribba frame depth so by drilling a few holes in the frame should make it work. The jack cable will be conencted to the driver board of the screen so the sound will flow through the HDMI.
 
 ## Software
 TBD
