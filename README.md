@@ -10,6 +10,7 @@
     - [Black Film](#black-film)
     - [Double-Sided Tape for LCD](#double-sided-tape-for-lcd)
     - [Adhesive sealing tape](#adhesive-sealing-tape)
+    - [Polystyrene Sheet & PCB Board Support Holder](#polystyrene-sheet--pcb-board-support-holder)
     - [Raspberry PI 4](#raspberry-pi-4)
     - [Touch Screen](#touch-screen)
     - [HDMI Cable](#hdmi-cable)
@@ -45,6 +46,8 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | Black Film                | [One-Way Black mirror film 30cm x 5m](https://tinyurl.com/y7wb6qa8)                         |
 | Double-Sided Tape for LCD | [3M 9448AB Tape for LCD](https://tinyurl.com/ya6henge)                                      |
 | Adhesive Sealing Tape     | [1 x 6 Adhesive Silicone Sealing Tape](https://tinyurl.com/y8yaxd8s)                        |
+| Polystyrene Sheet         | [330 x 230 x 0.5 Polystyrene Sheet](https://tinyurl.com/ydd37cmu)                           |
+| PCB Board Support Holder  | [3.5mm sticky holder](https://www.hestore.hu/prod_10035400.html#)                           |
 | Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                          |
 | Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/y6wvakna)                                    |
 | HDMI Cable                | [HDMI Ribbon Cable](https://tinyurl.com/yay53w98)                                           |
@@ -103,6 +106,9 @@ This will help us to give the LCD a better look by filling the potential gaps be
 
 #### Adhesive sealing tape
 This will be used on the edge of the frame (between the wall and the Ribba frame). This is matching the color of the frame and will make the solution prettier by filling the potential gaps between the wall and the frame.
+
+#### Polystyrene Sheet & PCB Board Support Holder
+The sheet is a very thin dielectric material what I will place between the back of the LCD and the rest of the solution. The sticky holders will be placed on the sheet providing stable support to the LCD driver boards and to the RPi.
 
 #### Raspberry PI 4
 Pretty straightforward I guess. The latest version with 4 GB of memory should be providing enough resources to show even the more complex HA dashboards.
