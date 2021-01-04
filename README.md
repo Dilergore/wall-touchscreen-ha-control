@@ -77,14 +77,26 @@ Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ri
 </details>
 <details>
   <summary>Pictures</summary>
+  <style>
+    img {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 5px;
+      width: 150px;
+    }
+
+    img:hover {
+      box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    }
+  </style>
   <ul>
-    <li><a href="pictures/frame/IMG_1505.JPEG">IMG_1505</a></li>
-    <li><a href="pictures/frame/IMG_1506.JPEG">IMG_1506</a></li>
-    <li><a href="pictures/frame/IMG_1507.JPEG">IMG_1507</a></li>
-    <li><a href="pictures/frame/IMG_1508.JPEG">IMG_1508</a></li>
-    <li><a href="pictures/frame/IMG_1509.JPEG">IMG_1509</a></li>
-    <li><a href="pictures/frame/IMG_1510.JPEG">IMG_1510</a></li>
-    <li><a href="pictures/frame/IMG_1511.JPEG">IMG_1511</a></li>
+    <a target="_blank" href="pictures/frame/IMG_1505.JPEG"><img src="pictures/frame/IMG_1505"></a><br>
+    <a target="_blank" href="pictures/frame/IMG_1506.JPEG"><img src="pictures/frame/IMG_1506"></a><br>
+    <a target="_blank" href="pictures/frame/IMG_1507.JPEG"><img src="pictures/frame/IMG_1507"></a><br>
+    <a target="_blank" href="pictures/frame/IMG_1508.JPEG"><img src="pictures/frame/IMG_1508"></a><br>
+    <a target="_blank" href="pictures/frame/IMG_1509.JPEG"><img src="pictures/frame/IMG_1509"></a><br>
+    <a target="_blank" href="pictures/frame/IMG_1510.JPEG"><img src="pictures/frame/IMG_1510"></a><br>
+    <a target="_blank" href="pictures/frame/IMG_1511.JPEG"><img src="pictures/frame/IMG_1511"></a><br>
   </ul>
 </details>
 
