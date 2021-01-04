@@ -77,13 +77,13 @@ Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ri
 </details>
 <details>
   <summary>Pictures</summary>
-  <a target="_blank" href="pictures/frame/IMG_1505.JPEG"><img src="pictures/frame/IMG_1505"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1506.JPEG"><img src="pictures/frame/IMG_1506"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1507.JPEG"><img src="pictures/frame/IMG_1507"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1508.JPEG"><img src="pictures/frame/IMG_1508"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1509.JPEG"><img src="pictures/frame/IMG_1509"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1510.JPEG"><img src="pictures/frame/IMG_1510"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1511.JPEG"><img src="pictures/frame/IMG_1511"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1505.JPEG"><img src="pictures/frame/IMG_1505?raw=true"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1506.JPEG"><img src="pictures/frame/IMG_1506?raw=true"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1507.JPEG"><img src="pictures/frame/IMG_1507?raw=true"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1508.JPEG"><img src="pictures/frame/IMG_1508?raw=true"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1509.JPEG"><img src="pictures/frame/IMG_1509?raw=true"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1510.JPEG"><img src="pictures/frame/IMG_1510?raw=true"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1511.JPEG"><img src="pictures/frame/IMG_1511?raw=true"></a><br>
 </details>
 
 #### Wooden Plank, Plugs & Glue
