@@ -19,14 +19,15 @@ Therefore I am planning to use PoE based solution. For now I am using this proje
       - [Black Film](#black-film)
       - [Double-Sided Tape for LCD](#double-sided-tape-for-lcd)
       - [Adhesive sealing tape](#adhesive-sealing-tape)
-      - [Polystyrene Sheet & PCB Board Support Holder](#polystyrene-sheet--pcb-board-support-holder)
+      - [Polystyrene Sheet, PCB Board Support Holder, Cable Tie Holder and Cable Tie](#polystyrene-sheet-pcb-board-support-holder-cable-tie-holder-and-cable-tie)
       - [Raspberry PI 4](#raspberry-pi-4)
       - [Touch Screen](#touch-screen)
       - [HDMI Cable](#hdmi-cable)
       - [Power Supply & PoE & Step-down](#power-supply--poe--step-down)
       - [Ambient Light Sensor](#ambient-light-sensor)
       - [Motion sensor](#motion-sensor)
-      - [Amplifier, Speaker and Jack cable](#amplifier-speaker-and-jack-cable)
+      - [Amplifier, Speaker, Jack cable, Microphone](#amplifier-speaker-jack-cable-microphone)
+      - [Jumper Cables and Double Row Pin Header](#jumper-cables-and-double-row-pin-header)
   - [Software](#software)
   - [Credits](#credits)
 
@@ -39,28 +40,34 @@ Therefore I am planning to use PoE based solution. For now I am using this proje
 ### Table of the used components
 Some of the links are pointing to local dealerships here in Hungary. Most of these are also available on Aliexpress or probably locally in your country.
 
-| Hardware                  | Type & Link                                                                                 |
-| ------------------------- | ------------------------------------------------------------------------------------------- |
-| Frame                     | [IKEA Ribba 21x30](https://www.ikea.com/hu/hu/p/ribba-kepkeret-fekete-60378396/)            |
-| Wooden Plank              | [10x15](https://www.obi.hu/szegelylecek/negyszoeglec-10-mm-x-15-mm-2100-mm-fenyo/p/1820299) |
-| Wooden Plugs              | [6mm Wooden Plug](https://www.obi.hu/fatiplik/lux-fatipli-6-mm-50-darab/p/5103932)          |
-| Wood Glue                 | [BISON Super Wood Glue](https://tinyurl.com/ybyvgavx)                                       |
-| Black Film                | [One-Way Black mirror film 20cm x 5m](https://tinyurl.com/y7wb6qa8)                         |
-| Double-Sided Tape for LCD | [3M 9448AB Tape for LCD - 2mm & 5mm](https://tinyurl.com/ya6henge)                          |
-| Adhesive Sealing Tape     | [2 x 8 Adhesive Silicone Sealing Tape](https://tinyurl.com/yah8revp)                        |
-| Polystyrene Sheet         | [330 x 230 x 0.5 Polystyrene Sheet](https://tinyurl.com/ydd37cmu)                           |
-| PCB Board Support Holder  | [3.5mm Sticky Holder](https://www.hestore.hu/prod_10035400.html#)                           |
-| Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                          |
-| Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/y6wvakna)                                    |
-| HDMI Cable                | [HDMI Ribbon Cable (A1, D1, 5 & 10CM FPC)](https://tinyurl.com/yay53w98)                    |
-| Power Supply              | [42W Power Supply](https://www.anrodiszlec.hu/product_info.php/products_id/13212)           |
-| PoE Adapter & Splitter    | [POE Adapter-Splitter Kit](https://tinyurl.com/y9e6pmqu)                                    |
-| DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                                    |
-| Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                         |
-| Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                                      |
-| Amplifier                 | [PAM8403-M](https://www.hestore.hu/prod_10038182.html)                                      |
-| Speaker                   | [3W Passive mini speaker](https://tinyurl.com/ybgszw5m)                                     |
-| Jack Cable                | [Random 3.5 Jack Cable on Ali](https://tinyurl.com/yb83ctar)                                |
+| Hardware                  | Type & Link                                                                                       |
+| ------------------------- | ------------------------------------------------------------------------------------------------- |
+| Frame                     | [IKEA Ribba 21x30](https://www.ikea.com/hu/hu/p/ribba-kepkeret-fekete-60378396/)                  |
+| Wooden Plank              | [10x15](https://www.obi.hu/szegelylecek/negyszoeglec-10-mm-x-15-mm-2100-mm-fenyo/p/1820299)       |
+| Wooden Plugs              | [6mm Wooden Plug](https://www.obi.hu/fatiplik/lux-fatipli-6-mm-50-darab/p/5103932)                |
+| Wood Glue                 | [BISON Super Wood Glue](https://tinyurl.com/ybyvgavx)                                             |
+| Black Film                | [One-Way Black mirror film 20cm x 5m](https://www.aliexpress.com/item/4000478606134.html)         |
+| Double-Sided Tape for LCD | [3M 9448AB Tape for LCD - 2mm & 5mm](https://www.aliexpress.com/item/32877319852.html)            |
+| Adhesive Sealing Tape     | [2 x 8 Adhesive Silicone Sealing Tape](https://www.aliexpress.com/item/32812526331.html)          |
+| Polystyrene Sheet         | [330 x 230 x 0.5 Polystyrene Sheet](https://tinyurl.com/ydd37cmu)                                 |
+| PCB Board Support Holder  | [3.5mm Sticky Holder](https://www.hestore.hu/prod_10035400.html#)                                 |
+| Cable Tie Holder          | [4.2mm Stickly Holder](https://www.hestore.hu/prod_10027865.html)                                 |
+| Cable Tie                 | [2.5mm Cable Tie](https://www.hestore.hu/prod_10023376.html)                                      |
+| Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                                |
+| Touch Screen              | [13.3 FHD Capacitive HDMI](https://www.aliexpress.com/item/32767308281.html)                      |
+| HDMI Cable                | [HDMI Ribbon Cable (A1, D1, 5 & 10CM FPC)](https://www.aliexpress.com/item/1005001592198090.html) |
+| Power Supply              | [42W Power Supply](https://www.anrodiszlec.hu/product_info.php/products_id/13212)                 |
+| PoE Adapter & Splitter    | [POE Adapter-Splitter Kit](https://www.aliexpress.com/item/4000519288151.html)                    |
+| DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                                          |
+| Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                               |
+| Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                                            |
+| Amplifier                 | [PAM8403-M](https://www.hestore.hu/prod_10038182.html)                                            |
+| Speaker                   | [3W Passive mini speaker](https://www.aliexpress.com/item/1005001560611822.html)                  |
+| Microphone | [Omnidirectional USB-C Mic](https://www.aliexpress.com/item/4001295620668.html)
+| Jack Cable                | [Random 3.5 Jack Cable on Ali](https://www.aliexpress.com/item/1005001967948299.html)             |
+| Jumper Cable 100          | [Female - Female 10cm Jumper Cable](https://www.hestore.hu/prod_10036628.html)                                    |
+| Jumper Cable 200          | [Female - Female 20cm Jumper Cable](https://www.hestore.hu/prod_10035719.html)                                    |
+| Double Row Pin Header     | [Double Row Pin Header](https://www.hestore.hu/prod_10024169.html)                                |
 
 ### Components in details
 #### IKEA Ribba
@@ -105,8 +112,8 @@ This will help us to give the LCD a better look by filling the potential gaps be
 #### Adhesive sealing tape
 This will be used on the edge of the frame (between the wall and the Ribba frame). This is matching the color of the frame and will make the solution prettier by filling the potential gaps between the wall and the frame.
 
-#### Polystyrene Sheet & PCB Board Support Holder
-The sheet is a very thin dielectric material what I will place between the back of the LCD and the rest of the solution. The sticky holders will be placed on the sheet providing stable support to the LCD driver boards and to the RPi.
+#### Polystyrene Sheet, PCB Board Support Holder, Cable Tie Holder and Cable Tie
+The sheet is a very thin dielectric material what I will place between the back of the LCD and the rest of the solution. The board sticky holders will be placed on the sheet providing stable support to the LCD driver boards and to the RPi. I like clean solutions so for cable organization purposes I ordered sticky cable tie holders along with cable ties.
 
 #### Raspberry PI 4
 Pretty straightforward I guess. The latest version with 4 GB of memory should be providing enough resources to show even the more complex HA dashboards.
@@ -126,8 +133,11 @@ BH1750 is a well-known sensor which can be used together with the RPi to measure
 #### Motion sensor
 RCWL-0616 is a microwave sensor which will help us to detect if someone is in front of the screen. The plan is to turn off the screen or show a screensaver if no one is actually using it. This will require some calibration for sure.
 
-#### Amplifier, Speaker and Jack cable
-The jack cable will be cut and soldered to the PAM8403 amplifier module along with the speakers. The speaker fits the Ribba frame depth so by drilling a few holes in the frame should make it work. The jack cable will be conencted to the driver board of the screen so the sound will flow through the HDMI.
+#### Amplifier, Speaker, Jack cable, Microphone
+The jack cable will be cut and soldered to the PAM8403 amplifier module along with the speakers. The speaker fits the Ribba frame depth so by drilling a few holes in the frame should make it work. The jack cable will be conencted to the driver board of the screen so the sound will flow through the HDMI. The USB-C microphone will be plugged to the RPi directly making it possible to use Alexa.
+
+#### Jumper Cables and Double Row Pin Header
+I will need to solder pin headers to the sensors and will need to connect them using jumper cable to the RPi.
 
 ## Software
 TBD
