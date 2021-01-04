@@ -1,32 +1,34 @@
-## Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Intro](#intro)
-- [Tools](#tools)
-- [Hardware](#hardware)
-  - [Table of the used components](#table-of-the-used-components)
-  - [Components in details](#components-in-details)
-    - [IKEA Ribba](#ikea-ribba)
-    - [Wooden Plank, Plugs & Glue](#wooden-plank-plugs--glue)
-    - [Black Film](#black-film)
-    - [Double-Sided Tape for LCD](#double-sided-tape-for-lcd)
-    - [Adhesive sealing tape](#adhesive-sealing-tape)
-    - [Polystyrene Sheet & PCB Board Support Holder](#polystyrene-sheet--pcb-board-support-holder)
-    - [Raspberry PI 4](#raspberry-pi-4)
-    - [Touch Screen](#touch-screen)
-    - [HDMI Cable](#hdmi-cable)
-    - [Power Supply & PoE & Step-down](#power-supply--poe--step-down)
-    - [Ambient Light Sensor](#ambient-light-sensor)
-    - [Motion sensor](#motion-sensor)
-    - [Amplifier, Speaker and Jack cable](#amplifier-speaker-and-jack-cable)
-- [Software](#software)
-- [Credits](#credits)
-
+# Touch Screen Controller for Home Assistant
 ## Intro
 This is a project to assemble a touchscreen controller for Home Assistant. The project contains a detailed guide on what and how to do both hardware and software wise.
 
 I have been looking into this for quiet some time now. Checked the tablet possibilities & Raspberry along with enclousre possibilities. Ideally I would go with a tablet since that is having all the sensors I would need but I am afraid of the lifetime of such solution because even if we control the charging cycles I do not think the battery would survive more than 2-3 years.
 
 Therefore I am planning to use PoE based solution. For now I am using this project to track the progress and to make notes. Later on I plan to share this on different forums, hopefully it will be useful for the other people out there wanting to do something similar. :-)
+
+## Table of Contents
+- [Touch Screen Controller for Home Assistant](#touch-screen-controller-for-home-assistant)
+  - [Intro](#intro)
+  - [Table of Contents](#table-of-contents)
+  - [Tools](#tools)
+  - [Hardware](#hardware)
+    - [Table of the used components](#table-of-the-used-components)
+    - [Components in details](#components-in-details)
+      - [IKEA Ribba](#ikea-ribba)
+      - [Wooden Plank, Plugs & Glue](#wooden-plank-plugs--glue)
+      - [Black Film](#black-film)
+      - [Double-Sided Tape for LCD](#double-sided-tape-for-lcd)
+      - [Adhesive sealing tape](#adhesive-sealing-tape)
+      - [Polystyrene Sheet & PCB Board Support Holder](#polystyrene-sheet--pcb-board-support-holder)
+      - [Raspberry PI 4](#raspberry-pi-4)
+      - [Touch Screen](#touch-screen)
+      - [HDMI Cable](#hdmi-cable)
+      - [Power Supply & PoE & Step-down](#power-supply--poe--step-down)
+      - [Ambient Light Sensor](#ambient-light-sensor)
+      - [Motion sensor](#motion-sensor)
+      - [Amplifier, Speaker and Jack cable](#amplifier-speaker-and-jack-cable)
+  - [Software](#software)
+  - [Credits](#credits)
 
 ## Tools
 | Name                                        | Note                                                             |
