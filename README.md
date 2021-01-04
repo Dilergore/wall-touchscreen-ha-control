@@ -77,13 +77,13 @@ Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ri
 </details>
 <details>
   <summary>Pictures</summary>
-  <a target="_blank" href="pictures/frame/IMG_1505.JPEG"><img src="pictures/frame/IMG_1505.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1506.JPEG"><img src="pictures/frame/IMG_1506.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1507.JPEG"><img src="pictures/frame/IMG_1507.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1508.JPEG"><img src="pictures/frame/IMG_1508.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1509.JPEG"><img src="pictures/frame/IMG_1509.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1510.JPEG"><img src="pictures/frame/IMG_1510.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1511.JPEG"><img src="pictures/frame/IMG_1511.JPEG" width="25%" height="25%"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1505.JPEG?raw=true"><img src="pictures/frame/IMG_1505.JPEG" width="25%" height="25%"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1506.JPEG?raw=true"><img src="pictures/frame/IMG_1506.JPEG" width="25%" height="25%"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1507.JPEG?raw=true"><img src="pictures/frame/IMG_1507.JPEG" width="25%" height="25%"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1508.JPEG?raw=true"><img src="pictures/frame/IMG_1508.JPEG" width="25%" height="25%"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1509.JPEG?raw=true"><img src="pictures/frame/IMG_1509.JPEG" width="25%" height="25%"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1510.JPEG?raw=true"><img src="pictures/frame/IMG_1510.JPEG" width="25%" height="25%"></a><br>
+  <a target="_blank" href="pictures/frame/IMG_1511.JPEG?raw=true"><img src="pictures/frame/IMG_1511.JPEG" width="25%" height="25%"></a><br>
 </details>
 
 #### Wooden Plank, Plugs & Glue
