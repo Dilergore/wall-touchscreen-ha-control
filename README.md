@@ -77,13 +77,13 @@ Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ri
 </details>
 <details>
   <summary>Pictures</summary>
-  <a target="_blank" href="pictures/frame/IMG_1505.JPEG?raw=true"><img src="pictures/frame/IMG_1505.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1506.JPEG?raw=true"><img src="pictures/frame/IMG_1506.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1507.JPEG?raw=true"><img src="pictures/frame/IMG_1507.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1508.JPEG?raw=true"><img src="pictures/frame/IMG_1508.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1509.JPEG?raw=true"><img src="pictures/frame/IMG_1509.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1510.JPEG?raw=true"><img src="pictures/frame/IMG_1510.JPEG" width="25%" height="25%"></a><br>
-  <a target="_blank" href="pictures/frame/IMG_1511.JPEG?raw=true"><img src="pictures/frame/IMG_1511.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/frame/IMG_1505.JPEG?raw=true"><img src="pictures/frame/IMG_1505.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/frame/IMG_1506.JPEG?raw=true"><img src="pictures/frame/IMG_1506.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/frame/IMG_1507.JPEG?raw=true"><img src="pictures/frame/IMG_1507.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/frame/IMG_1508.JPEG?raw=true"><img src="pictures/frame/IMG_1508.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/frame/IMG_1509.JPEG?raw=true"><img src="pictures/frame/IMG_1509.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/frame/IMG_1510.JPEG?raw=true"><img src="pictures/frame/IMG_1510.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/frame/IMG_1511.JPEG?raw=true"><img src="pictures/frame/IMG_1511.JPEG" width="25%" height="25%"></a><br>
 </details>
 
 #### Wooden Plank, Plugs & Glue
@@ -91,11 +91,9 @@ The wooden plank will help us to give some more strength and stability to the sc
 
 <details>
   <summary>Pictures</summary>
-  <ul>
-    <li><a href="pictures/frame/IMG_1505.JPEG">IMG_1512</a></li>
-    <li><a href="pictures/frame/IMG_1506.JPEG">IMG_1513</a></li>
-    <li><a href="pictures/frame/IMG_1507.JPEG">IMG_1514</a></li>
-  </ul>
+    <a href="pictures/wooden_plank_plug_glue/IMG_1505.JPEG?raw=true"><img src="pictures/wooden_plank_plug_glue/IMG_1512.JPEG" width="25%" height="25%"></a><br>
+    <a href="pictures/wooden_plank_plug_glue/IMG_1506.JPEG?raw=true"><img src="pictures/wooden_plank_plug_glue/IMG_1513.JPEG" width="25%" height="25%"></a><br>
+    <a href="pictures/wooden_plank_plug_glue/IMG_1507.JPEG?raw=true"><img src="pictures/wooden_plank_plug_glue/IMG_1514.JPEG" width="25%" height="25%"></a><br>
 </details>
 
 #### Black Film
