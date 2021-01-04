@@ -43,14 +43,14 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | Wooden Plank              | [10x15](https://www.obi.hu/szegelylecek/negyszoeglec-10-mm-x-15-mm-2100-mm-fenyo/p/1820299) |
 | Wooden Plugs              | [6mm Wooden Plug](https://www.obi.hu/fatiplik/lux-fatipli-6-mm-50-darab/p/5103932)          |
 | Wood Glue                 | [BISON Super Wood Glue](https://tinyurl.com/ybyvgavx)                                       |
-| Black Film                | [One-Way Black mirror film 30cm x 5m](https://tinyurl.com/y7wb6qa8)                         |
-| Double-Sided Tape for LCD | [3M 9448AB Tape for LCD](https://tinyurl.com/ya6henge)                                      |
-| Adhesive Sealing Tape     | [1 x 6 Adhesive Silicone Sealing Tape](https://tinyurl.com/y8yaxd8s)                        |
+| Black Film                | [One-Way Black mirror film 20cm x 5m](https://tinyurl.com/y7wb6qa8)                         |
+| Double-Sided Tape for LCD | [3M 9448AB Tape for LCD - 2mm & 5mm](https://tinyurl.com/ya6henge)                          |
+| Adhesive Sealing Tape     | [2 x 8 Adhesive Silicone Sealing Tape](https://tinyurl.com/yah8revp)                        |
 | Polystyrene Sheet         | [330 x 230 x 0.5 Polystyrene Sheet](https://tinyurl.com/ydd37cmu)                           |
 | PCB Board Support Holder  | [3.5mm Sticky Holder](https://www.hestore.hu/prod_10035400.html#)                           |
 | Raspberry PI 4            | [Model B - 4GB](https://www.rpibolt.hu/raspberry-pi-4-model-b-4gb)                          |
 | Touch Screen              | [13.3 FHD Capacitive HDMI](https://tinyurl.com/y6wvakna)                                    |
-| HDMI Cable                | [HDMI Ribbon Cable](https://tinyurl.com/yay53w98)                                           |
+| HDMI Cable                | [HDMI Ribbon Cable (A1, D1, 5 & 10CM FPC)](https://tinyurl.com/yay53w98)                    |
 | Power Supply              | [42W Power Supply](https://www.anrodiszlec.hu/product_info.php/products_id/13212)           |
 | PoE Adapter & Splitter    | [POE Adapter-Splitter Kit](https://tinyurl.com/y9e6pmqu)                                    |
 | DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                                    |
