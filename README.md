@@ -23,7 +23,7 @@ Therefore I am planning to use PoE based solution. For now I am using this proje
       - [Raspberry PI 4](#raspberry-pi-4)
       - [Touch Screen](#touch-screen)
       - [HDMI Cable](#hdmi-cable)
-      - [Power Supply & PoE & Step-down](#power-supply--poe--step-down)
+      - [Power Supply, PoE, Step-down, Reset Button & Reset Button Cable](#power-supply-poe-step-down-reset-button--reset-button-cable)
       - [Ambient Light Sensor](#ambient-light-sensor)
       - [Motion sensor](#motion-sensor)
       - [Amplifier, Speaker, Jack cable, Microphone](#amplifier-speaker-jack-cable-microphone)
@@ -59,14 +59,16 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | Power Supply              | [42W Power Supply](https://www.anrodiszlec.hu/product_info.php/products_id/13212)                 |
 | PoE Adapter & Splitter    | [POE Adapter-Splitter Kit](https://www.aliexpress.com/item/4000519288151.html)                    |
 | DC/DC Step-down           | [DCDC-6010-M](https://www.hestore.hu/prod_10038452.html)                                          |
+| Reset Button              | [NO 16mm flat button](https://www.aliexpress.com/item/4001040355688.html)                         |
+| Reset Button Cable        | [Switch connector cable](https://www.aliexpress.com/item/32917680168.html)                        |
 | Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                               |
 | Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                                            |
 | Amplifier                 | [PAM8403-M](https://www.hestore.hu/prod_10038182.html)                                            |
 | Speaker                   | [3W Passive mini speaker](https://www.aliexpress.com/item/1005001560611822.html)                  |
-| Microphone | [Omnidirectional USB-C Mic](https://www.aliexpress.com/item/4001295620668.html)
+| Microphone                | [Omnidirectional USB-C Mic](https://www.aliexpress.com/item/4001295620668.html)                   |
 | Jack Cable                | [Random 3.5 Jack Cable on Ali](https://www.aliexpress.com/item/1005001967948299.html)             |
-| Jumper Cable 100          | [Female - Female 10cm Jumper Cable](https://www.hestore.hu/prod_10036628.html)                                    |
-| Jumper Cable 200          | [Female - Female 20cm Jumper Cable](https://www.hestore.hu/prod_10035719.html)                                    |
+| Jumper Cable 100          | [Female - Female 10cm Jumper Cable](https://www.hestore.hu/prod_10036628.html)                    |
+| Jumper Cable 200          | [Female - Female 20cm Jumper Cable](https://www.hestore.hu/prod_10035719.html)                    |
 | Double Row Pin Header     | [Double Row Pin Header](https://www.hestore.hu/prod_10024169.html)                                |
 
 ### Components in details
@@ -124,8 +126,8 @@ We will go with a 13.3 inch touch screen. This is probably the most expensive pa
 #### HDMI Cable
 This type of HDMI cable is really good because it is highly customizable and small. On the Raspberry PI end we will use a micro-HDMI connector while on the LCD controller side we will use normal.
 
-#### Power Supply & PoE & Step-down
-In each and every room I have a CAT6 UTP cable wired already next to the room entrance up from the normal socket switches (on ~160cm from the floor). I am planning to use the pre-wired UTP cable to provide both power and network connectivity to the solution. The solution will use a 12V/42W Power supply through passive PoE. 42W should be enough to power the solution since the LCD screen requires 5v2A and the RPi requires 5v3A which somes up to 25W. The PoE adapter on the Raspberry end is small giving us the flexibility required which is making it the perfect choice for this solution. The step-down will be used to power the Raspberry PI with 5V.
+#### Power Supply, PoE, Step-down, Reset Button & Reset Button Cable
+In each and every room I have a CAT6 UTP cable wired already next to the room entrance up from the normal socket switches (on ~160cm from the floor). I am planning to use the pre-wired UTP cable to provide both power and network connectivity to the solution. The solution will use a 12V/42W Power supply through passive PoE. 42W should be enough to power the solution since the LCD screen requires 5v2A and the RPi requires 5v3A which somes up to 25W. The PoE adapter on the Raspberry end is small giving us the flexibility required which is making it the perfect choice for this solution. The step-down will be used to power the Raspberry PI with 5V. Since I wanted to make sure that in case a failure I do not need to remove the frame from the wall / unplug the power cord inside my wall rack I will add a small reset button.
 
 #### Ambient Light Sensor
 BH1750 is a well-known sensor which can be used together with the RPi to measure lux in the surrounding environment. Since today I do not have any light sensor in my rooms I am planning to use this as the main source for light level and base some automations on it. It will also help us to dim the screen light at night making sure we will not go blind if we plan to check something during our midnight sleepwalk ;-). The black glass film will help us to hide this.
