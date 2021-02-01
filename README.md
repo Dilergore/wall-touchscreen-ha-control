@@ -62,7 +62,7 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | Reset Button              | [NO 16mm flat button](https://www.aliexpress.com/item/4001040355688.html)                         |
 | Reset Button Cable        | [Switch connector cable](https://www.aliexpress.com/item/32917680168.html)                        |
 | Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                               |
-| Motion sensor             | [RCWL-0616](https://www.hestore.hu/prod_10038178.html)                                            |
+| Motion sensor / Gesture   | [APDS-9960](https://tinyurl.com/y384b65v)                                            |
 | Amplifier                 | [PAM8403-M](https://www.hestore.hu/prod_10038182.html)                                            |
 | Speaker                   | [3W Passive mini speaker](https://www.aliexpress.com/item/1005001560611822.html)                  |
 | Microphone                | [Omnidirectional USB-C Mic](https://www.aliexpress.com/item/4001295620668.html)                   |
@@ -133,10 +133,28 @@ In each and every room I have a CAT6 UTP cable wired already next to the room en
 BH1750 is a well-known sensor which can be used together with the RPi to measure lux in the surrounding environment. Since today I do not have any light sensor in my rooms I am planning to use this as the main source for light level and base some automations on it. It will also help us to dim the screen light at night making sure we will not go blind if we plan to check something during our midnight sleepwalk ;-). The black glass film will help us to hide this.
 
 #### Motion sensor
-RCWL-0616 is a microwave sensor which will help us to detect if someone is in front of the screen. The plan is to turn off the screen or show a screensaver if no one is actually using it. This will require some calibration for sure.
+APDS-9906 is a digital proximity and gesture sensor which will help us to detect if someone is in front of the screen. The plan is to turn off the screen or show a screensaver if no one is actually using it. This will require some calibration for sure. Along with that later on it could be used potentially for some gesture control stuff which might be cool!
+
+<details>
+  <summary>Pictures</summary>
+  <a href="pictures/APDS9906/IMG_1583.JPEG?raw=true"><img src="pictures/APDS9906/IMG_1583.JPEG" width="25%" height="25%"></a><br>
+</details>
 
 #### Amplifier, Speaker, Jack cable, Microphone
-The jack cable will be cut and soldered to the PAM8403 amplifier module along with the speakers. The speaker fits the Ribba frame depth so by drilling a few holes in the frame should make it work. The jack cable will be conencted to the driver board of the screen so the sound will flow through the HDMI. The USB-C microphone will be plugged to the RPi directly making it possible to use Alexa.
+The jack cable will be cut and soldered to the PAM8403 amplifier module along with the speakers. The speaker fits the Ribba frame depth so by drilling a few holes in the frame should make it work. The jack cable will be conencted to the driver board of the screen so the sound will flow through the HDMI. The USB-C microphone will be plugged to the RPi directly making it possible to use Alexa.  
+
+<details>
+  <summary>Measurements (mm)</summary>
+  <ul>
+    <li>Speaker measurement: 98 (W) x 26 (D) x 16(H)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Pictures</summary>
+  <a href="pictures/speaker/IMG_1580.JPEG?raw=true"><img src="pictures/speaker/IMG_1580.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/speaker/IMG_1581.JPEG?raw=true"><img src="pictures/speaker/IMG_1581.JPEG" width="25%" height="25%"></a><br>
+</details>
 
 #### Jumper Cables and Double Row Pin Header
 I will need to solder pin headers to the sensors and will need to connect them using jumper cable to the RPi.
@@ -147,4 +165,4 @@ TBD
 ## Credits
 - [IKEA Ribba Magic Mirror](https://forum.magicmirror.builders/topic/3041/22-display-40cmx50cm-ikea-frame-pir-sensor?lang=en-US&page=1)
 - [BH1750 on RPi](https://www.raspberrypi-spy.co.uk/2015/03/bh1750fvi-i2c-digital-light-intensity-sensor/)
-- [RCWL-0516 on RPi](https://www.electromaker.io/tutorial/blog/using-a-doppler-radar-sensor-with-the-raspberry-pi-12)
+- [APDS-9906 on RPi](https://learn.adafruit.com/adafruit-apds9960-breakout/circuitpython)
