@@ -14,7 +14,7 @@ Therefore I am planning to use PoE based solution. For now I am using this proje
   - [Hardware](#hardware)
     - [Table of the used components](#table-of-the-used-components)
     - [Components in details](#components-in-details)
-      - [IKEA Ribba](#ikea-ribba)
+      - [Frame](#frame)
       - [Wooden Plank, Plugs & Glue](#wooden-plank-plugs--glue)
       - [Black Film](#black-film)
       - [Double-Sided Tape for LCD](#double-sided-tape-for-lcd)
@@ -23,7 +23,7 @@ Therefore I am planning to use PoE based solution. For now I am using this proje
       - [Raspberry PI 4](#raspberry-pi-4)
       - [Touch Screen](#touch-screen)
       - [HDMI Cable](#hdmi-cable)
-      - [Power Supply, PoE, Step-down, Reset Button & Reset Button Cable](#power-supply-poe-step-down-reset-button--reset-button-cable)
+      - [Power Supply, PoE, Step-down, Reset Button & Reset Button Cable & WAGO](#power-supply-poe-step-down-reset-button--reset-button-cable--wago)
       - [Ambient Light Sensor](#ambient-light-sensor)
       - [Motion sensor](#motion-sensor)
       - [Amplifier, Speaker, Jack cable, Microphone](#amplifier-speaker-jack-cable-microphone)
@@ -42,7 +42,8 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 
 | Hardware                  | Type & Link                                                                                       |
 | ------------------------- | ------------------------------------------------------------------------------------------------- |
-| Frame                     | [IKEA Ribba 21x30](https://www.ikea.com/hu/hu/p/ribba-kepkeret-fekete-60378396/)                  |
+| ~~Frame~~                 | ~~[IKEA Ribba 21x30](https://www.ikea.com/hu/hu/p/ribba-kepkeret-fekete-60378396/)~~              |
+| Frame                     | TBD                                                                                               |
 | Wooden Plank              | [10x15](https://www.obi.hu/szegelylecek/negyszoeglec-10-mm-x-15-mm-2100-mm-fenyo/p/1820299)       |
 | Wooden Plugs              | [6mm Wooden Plug](https://www.obi.hu/fatiplik/lux-fatipli-6-mm-50-darab/p/5103932)                |
 | Wood Glue                 | [BISON Super Wood Glue](https://tinyurl.com/ybyvgavx)                                             |
@@ -62,7 +63,7 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | Reset Button              | [NO 16mm flat button](https://www.aliexpress.com/item/4001040355688.html)                         |
 | Reset Button Cable        | [Switch connector cable](https://www.aliexpress.com/item/32917680168.html)                        |
 | Ambient Light Sensor      | [BH1750](https://www.hestore.hu/prod_10038183.html)                                               |
-| Motion sensor / Gesture   | [APDS-9960](https://tinyurl.com/y384b65v)                                            |
+| Motion sensor / Gesture   | [APDS-9960](https://tinyurl.com/y384b65v)                                                         |
 | Amplifier                 | [PAM8403-M](https://www.hestore.hu/prod_10038182.html)                                            |
 | Speaker                   | [3W Passive mini speaker](https://www.aliexpress.com/item/1005001560611822.html)                  |
 | Microphone                | [Omnidirectional USB-C Mic](https://www.aliexpress.com/item/4001295620668.html)                   |
@@ -72,20 +73,20 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 | Double Row Pin Header     | [Double Row Pin Header](https://www.hestore.hu/prod_10024169.html)                                |
 
 ### Components in details
-#### IKEA Ribba
-Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ribba is close to the perfect choice to do something like this. It is having a depth of 3.5 cm which is allowing us to hide most of the stuff we are planning with and still have some space for the air flow. Opposed to the already mentioned guide I am not planning to glue two frames; I am planning to use it as it is.
+#### Frame
+~~Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ribba is close to the perfect choice to do something like this. It is having a depth of 3.5 cm which is allowing us to hide most of the stuff we are planning with and still have some space for the air flow. Opposed to the already mentioned guide I am not planning to glue two frames; I am planning to use it as it is.~~
 
 <details>
-  <summary>Measurements (mm)</summary>
+  <summary>~~Measurements (mm)~~</summary>
   <ul>
-    <li>Outer diameters: 324 x 234 x 35</li>
-    <li>Inner diameters (visible picture size): 287 x 197</li>
-    <li>Inner diameters (without frame edge): 303 x 213 x 30</li>
-    <li>Frame edge: 7 x 7</li>
+    <li>~~Outer diameters: 324 x 234 x 35~~</li>
+    <li>~~Inner diameters (visible picture size): 287 x 197~~</li>
+    <li>~~Inner diameters (without frame edge): 303 x 213 x 30~~</li>
+    <li>~~Frame edge: 7 x 7~~</li>
   </ul>
 </details>
 <details>
-  <summary>Pictures</summary>
+  <summary>~~Pictures~~</summary>
   <a href="pictures/frame/IMG_1505.JPEG?raw=true"><img src="pictures/frame/IMG_1505.JPEG" width="25%" height="25%"></a><br>
   <a href="pictures/frame/IMG_1506.JPEG?raw=true"><img src="pictures/frame/IMG_1506.JPEG" width="25%" height="25%"></a><br>
   <a href="pictures/frame/IMG_1507.JPEG?raw=true"><img src="pictures/frame/IMG_1507.JPEG" width="25%" height="25%"></a><br>
@@ -94,6 +95,8 @@ Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ri
   <a href="pictures/frame/IMG_1510.JPEG?raw=true"><img src="pictures/frame/IMG_1510.JPEG" width="25%" height="25%"></a><br>
   <a href="pictures/frame/IMG_1511.JPEG?raw=true"><img src="pictures/frame/IMG_1511.JPEG" width="25%" height="25%"></a><br>
 </details>
+
+Solution: TBD
 
 #### Wooden Plank, Plugs & Glue
 The wooden plank will help us to give some more strength and stability to the screen by pushing it against the frame/glass. Along with that it will enable us used together with the plugs to mount it on the wall and be able to remove it from the wall later on in case something needs to be adjusted physically. The planks will be glued to the backside of the Ribba frame which will be mounted on the wall with 4 screws.
@@ -121,13 +124,34 @@ The sheet is a very thin dielectric material what I will place between the back 
 Pretty straightforward I guess. The latest version with 4 GB of memory should be providing enough resources to show even the more complex HA dashboards.
 
 #### Touch Screen
-We will go with a 13.3 inch touch screen. This is probably the most expensive part of this project. We will connect this via HDMI to the RPi. We will use the 12V DC port of the controller board to power the screen.
+We will go with a 13.3 inch touch screen. This is probably the most expensive part of this project. We will connect this via HDMI to the RPi. We will use the 12V DC port of the controller board to power the screen. Sadly the touch screen is 2 mm wider than what was in the specs and because of that it does not fit the IKEA frame. I will need to come up with another solution for the frame.
+
+<details>
+  <summary>Pictures</summary>
+    <a href="pictures/touch_screen/IMG_1613.JPEG?raw=true"><img src="pictures/touch_screen/IMG_1613.JPEG" width="25%" height="25%"></a><br>
+    <a href="pictures/touch_screen/IMG_1614.JPEG?raw=true"><img src="pictures/touch_screen/IMG_1614.JPEG" width="25%" height="25%"></a><br>
+    <a href="pictures/touch_screen/IMG_1615.JPEG?raw=true"><img src="pictures/touch_screen/IMG_1615.JPEG" width="25%" height="25%"></a><br>
+    <a href="pictures/touch_screen/IMG_1616.JPEG?raw=true"><img src="pictures/touch_screen/IMG_1616.JPEG" width="25%" height="25%"></a><br>
+    <a href="pictures/touch_screen/IMG_1617.JPEG?raw=true"><img src="pictures/touch_screen/IMG_1617.JPEG" width="25%" height="25%"></a><br>
+</details>
 
 #### HDMI Cable
 This type of HDMI cable is really good because it is highly customizable and small. On the Raspberry PI end we will use a micro-HDMI connector while on the LCD controller side we will use normal.
 
-#### Power Supply, PoE, Step-down, Reset Button & Reset Button Cable
-In each and every room I have a CAT6 UTP cable wired already next to the room entrance up from the normal socket switches (on ~160cm from the floor). I am planning to use the pre-wired UTP cable to provide both power and network connectivity to the solution. The solution will use a 12V/42W Power supply through passive PoE. 42W should be enough to power the solution since the LCD screen requires 5v2A and the RPi requires 5v3A which somes up to 25W. The PoE adapter on the Raspberry end is small giving us the flexibility required which is making it the perfect choice for this solution. The step-down will be used to power the Raspberry PI with 5V. Since I wanted to make sure that in case a failure I do not need to remove the frame from the wall / unplug the power cord inside my wall rack I will add a small reset button.
+<details>
+  <summary>Pictures</summary>
+  <a href="pictures/hdmi/IMG_1612.JPEG?raw=true"><img src="pictures/hdmi/IMG_1612.JPEG" width="25%" height="25%"></a><br>
+</details>
+
+#### Power Supply, PoE, Step-down, Reset Button & Reset Button Cable & WAGO
+In each and every room I have a CAT6 UTP cable wired already next to the room entrance up from the normal socket switches (on ~160cm from the floor). I am planning to use the pre-wired UTP cable to provide both power and network connectivity to the solution. The solution will use a 12V/42W Power supply through passive PoE. 42W should be enough to power the solution since the LCD screen requires 12v2A and the RPi requires 5v3A. The PoE adapter on the Raspberry end is small giving us the flexibility required which is making it the perfect choice for this solution. It will be needed to cut the wires and use WAGOs to power both the screen and the rPi. The step-down will be used to power the Raspberry PI with 5V. Since I wanted to make sure that in case a failure I do not need to remove the frame from the wall / unplug the power cord inside my wall rack I will add a small reset button.
+
+<details>
+  <summary>Pictures</summary>
+  <a href="pictures/power/IMG_1608.JPEG?raw=true"><img src="pictures/power/IMG_1608.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/power/IMG_1610.JPEG?raw=true"><img src="pictures/power/IMG_1610.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/power/IMG_1611.JPEG?raw=true"><img src="pictures/power/IMG_1611.JPEG" width="25%" height="25%"></a><br>
+</details>
 
 #### Ambient Light Sensor
 BH1750 is a well-known sensor which can be used together with the RPi to measure lux in the surrounding environment. Since today I do not have any light sensor in my rooms I am planning to use this as the main source for light level and base some automations on it. It will also help us to dim the screen light at night making sure we will not go blind if we plan to check something during our midnight sleepwalk ;-). The black glass film will help us to hide this.
