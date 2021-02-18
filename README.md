@@ -28,6 +28,7 @@ Therefore I am planning to use PoE based solution. For now I am using this proje
       - [Motion sensor](#motion-sensor)
       - [Amplifier, Speaker, Jack cable, Microphone](#amplifier-speaker-jack-cable-microphone)
       - [Jumper Cables and Double Row Pin Header](#jumper-cables-and-double-row-pin-header)
+  - [Assembly](#assembly)
   - [Software](#software)
   - [Credits](#credits)
 
@@ -182,6 +183,10 @@ The jack cable will be cut and soldered to the PAM8403 amplifier module along wi
 
 #### Jumper Cables and Double Row Pin Header
 I will need to solder pin headers to the sensors and will need to connect them using jumper cable to the RPi.
+
+## Assembly
+First I'm doing this on my table to see how it is working together. I will be using an ethernet cable lying around for now. I need to cut the wires of the splitter for power distribution.
+
 
 ## Software
 TBD
