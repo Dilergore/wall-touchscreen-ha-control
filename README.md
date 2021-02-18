@@ -77,16 +77,16 @@ Some of the links are pointing to local dealerships here in Hungary. Most of the
 ~~Based on the guide I linked in the [Credits](#credits) I have found that IKEA Ribba is close to the perfect choice to do something like this. It is having a depth of 3.5 cm which is allowing us to hide most of the stuff we are planning with and still have some space for the air flow. Opposed to the already mentioned guide I am not planning to glue two frames; I am planning to use it as it is.~~
 
 <details>
-  <summary>~~Measurements (mm)~~</summary>
+  <summary><s>Measurements (mm)</s></summary>
   <ul>
-    <li>~~Outer diameters: 324 x 234 x 35~~</li>
-    <li>~~Inner diameters (visible picture size): 287 x 197~~</li>
-    <li>~~Inner diameters (without frame edge): 303 x 213 x 30~~</li>
-    <li>~~Frame edge: 7 x 7~~</li>
+    <li><s>Outer diameters: 324 x 234 x 35</s></li>
+    <li><s>Inner diameters (visible picture size): 287 x 197</s></li>
+    <li><s>Inner diameters (without frame edge): 303 x 213 x 30</s></li>
+    <li><s>Frame edge: 7 x 7</s></li>
   </ul>
 </details>
 <details>
-  <summary>~~Pictures~~</summary>
+  <summary><s>Pictures</s></summary>
   <a href="pictures/frame/IMG_1505.JPEG?raw=true"><img src="pictures/frame/IMG_1505.JPEG" width="25%" height="25%"></a><br>
   <a href="pictures/frame/IMG_1506.JPEG?raw=true"><img src="pictures/frame/IMG_1506.JPEG" width="25%" height="25%"></a><br>
   <a href="pictures/frame/IMG_1507.JPEG?raw=true"><img src="pictures/frame/IMG_1507.JPEG" width="25%" height="25%"></a><br>
