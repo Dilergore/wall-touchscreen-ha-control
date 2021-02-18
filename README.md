@@ -185,8 +185,15 @@ The jack cable will be cut and soldered to the PAM8403 amplifier module along wi
 I will need to solder pin headers to the sensors and will need to connect them using jumper cable to the RPi.
 
 ## Assembly
-First I'm doing this on my table to see how it is working together. I will be using an ethernet cable lying around for now. I need to cut the wires of the splitter for power distribution.
+First I'm doing this on my table to see how it is working together.
 
+I will be using an ethernet cable lying around for now. I need to cut the wires of the splitter for power distribution. I need to set the buck module to 5v
+<details>
+  <summary>Pictures</summary>
+  <a href="pictures/assembly/IMG_1619.JPEG?raw=true"><img src="pictures/assembly/IMG_1619.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/assembly/IMG_1620.JPEG?raw=true"><img src="pictures/assembly/IMG_1620.JPEG" width="25%" height="25%"></a><br>
+  <a href="pictures/assembly/IMG_1621.JPEG?raw=true"><img src="pictures/assembly/IMG_1621.JPEG" width="25%" height="25%"></a><br>
+</details>
 
 ## Software
 TBD
